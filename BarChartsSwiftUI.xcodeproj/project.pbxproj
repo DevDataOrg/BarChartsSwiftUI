@@ -11,6 +11,7 @@
 		70A27CF625A8B22600A83ABD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A27CF525A8B22600A83ABD /* ContentView.swift */; };
 		70A27CF825A8B22700A83ABD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70A27CF725A8B22700A83ABD /* Assets.xcassets */; };
 		70A27CFB25A8B22700A83ABD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70A27CFA25A8B22700A83ABD /* Preview Assets.xcassets */; };
+		70A27D0425A8B28600A83ABD /* BarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A27D0325A8B28600A83ABD /* BarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		70A27CF725A8B22700A83ABD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		70A27CFA25A8B22700A83ABD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		70A27CFC25A8B22700A83ABD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		70A27D0325A8B28600A83ABD /* BarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				70A27CF325A8B22600A83ABD /* BarChartsSwiftUIApp.swift */,
 				70A27CF525A8B22600A83ABD /* ContentView.swift */,
+				70A27D0325A8B28600A83ABD /* BarView.swift */,
 				70A27CF725A8B22700A83ABD /* Assets.xcassets */,
 				70A27CFC25A8B22700A83ABD /* Info.plist */,
 				70A27CF925A8B22700A83ABD /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70A27D0425A8B28600A83ABD /* BarView.swift in Sources */,
 				70A27CF625A8B22600A83ABD /* ContentView.swift in Sources */,
 				70A27CF425A8B22600A83ABD /* BarChartsSwiftUIApp.swift in Sources */,
 			);
